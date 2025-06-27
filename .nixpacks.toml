@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["php81", "php81Packages.composer", "php81Extensions.pdo", "php81Extensions.mbstring", "php81Extensions.tokenizer", "php81Extensions.xml", "php81Extensions.curl", "php81Extensions.fileinfo", "php81Extensions.bcmath"]
+nixPkgs = ["php82", "php82Packages.composer", "php82Extensions.pdo", "php82Extensions.mbstring", "php82Extensions.tokenizer", "php82Extensions.xml", "php82Extensions.curl", "php82Extensions.fileinfo", "php82Extensions.bcmath"]
 
 [phases.build]
 cmds = [
